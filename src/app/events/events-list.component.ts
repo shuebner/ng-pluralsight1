@@ -11,7 +11,7 @@ import { Component } from '@angular/core'
           <event-thumbnail [event]="event"></event-thumbnail>
         </div>
       </div>
-  </div>
+    </div>
   `
 })
 export class EventsListComponent {
